@@ -1,0 +1,6 @@
+.console {
+    min-height: 100vh;
+    color: #eeeeee;
+    overflow: auto;
+    background-color: #393e46;
+}
